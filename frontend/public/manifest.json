@@ -1,0 +1,8 @@
+{
+  "short_name": "Meta Ads Dashboard",
+  "name": "Meta Ads Dashboard - Análise de desempenho de campanhas publicitárias",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b5998",
+  "background_color": "#ffffff"
+}
